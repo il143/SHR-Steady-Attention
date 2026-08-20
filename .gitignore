@@ -1,0 +1,23 @@
+# Python 运行缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 编辑器临时文件
+.idea/
+.vscode/
+
+# 系统与日志文件
+Thumbs.db
+*.log
+*.tmp
+
+# 模型权重与数据
+*.pth
+*.pt
+data/
+
+# 本地虚拟环境
+venv/
+.venv/
